@@ -44,8 +44,8 @@ Para publicar sua página no GitHub Pages, siga estas etapas:
    - Branch: "main" (ou master) e "/(root)"
 5. Clique em "Save"
 
-Aguarde alguns minutos e sua página estará disponível no endereço:
-`https://`
+A página está disponível no endereço:
+`https://caioarodrigues.github.io/tecnologias-web-ii/atividade-01/`
 
 ## Personalização
 
